@@ -2,3 +2,4 @@ welcome to iphone
 give your faceid
 chose your language 
 get started 
+shut down
