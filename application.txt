@@ -1,4 +1,4 @@
 welcome to iphone
-enter your passcode
+give your faceid
 chose your language 
 get started 
